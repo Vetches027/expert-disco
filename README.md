@@ -1,4 +1,5 @@
 # Comprehensive Strategies for Poverty Alleviation in the Philippines
+by Marco Polo
 
 ![image](https://github.com/user-attachments/assets/d30e2820-b26f-4d32-8748-968c8ece7df8)
 
