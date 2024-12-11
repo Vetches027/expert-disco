@@ -37,3 +37,5 @@ Technology can be a powerful ally in poverty reduction. Digital platforms for ed
 Women and youth are key agents of change in poverty alleviation. Empowering women through microfinance, education, and entrepreneurship programs can have a transformative impact on household income and community well-being. Similarly, engaging the youth in skill-building, leadership development, and sustainable livelihood programs can drive long-term change.  
 
 Eradicating poverty in the Philippines is a monumental task requiring sustained and collaborative efforts. By addressing systemic inequalities, investing in education and skills development, creating sustainable livelihoods, and promoting disaster resilience, the country can build a more equitable and prosperous society. Strengthening partnerships between the government, private sector, and civil society, alongside fostering transparency and innovation, will be key to achieving long-term poverty reduction and social progress.
+
+![image](https://github.com/user-attachments/assets/1c3e7d1d-6747-4930-b1b1-22933556c82b)
